@@ -1,0 +1,42 @@
+
+
+/* default css */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200&display=swap');
+
+
+*{
+  font-family: poppins;
+}
+a{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
+input:focus{
+  outline: none;
+}
+
+
+/* start project */
+.fiverr {
+  gap: 10px;
+}
+.fiverr .my-3 {
+  flex: 1;
+}
+.fiver-counter .row{
+  border-radius: 10px;
+}
+.bar{
+  width: 100%;
+  height: 10px;
+  background-color: red;
+  border-radius: 10px;
+  display: none;
+}
+
+
+
+
